@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7DFAFA8B-8277-425C-A489-C00236DB08F2}</ProjectGuid>
+    <ProjectGuid>{B9B70712-3605-490B-B1C8-A14D562088E2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>equation</RootNamespace>
-    <AssemblyName>equation</AssemblyName>
+    <RootNamespace>exrectangle</RootNamespace>
+    <AssemblyName>exrectangle</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

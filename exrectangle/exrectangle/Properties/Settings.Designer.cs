@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace equation.Properties
+namespace exrectangle.Properties
 {
 
 
